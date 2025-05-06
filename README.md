@@ -1,5 +1,4 @@
 <p align="center">
-    <img width="140" src="https://icons.iconarchive.com/icons/iconarchive/red-orb-alphabet/128/Letter-M-icon.png" />  
     <h1 align="center">Hi 👋, I'm MaDHouSe<br />A passionate allround developer</h1>
     <h3 align="center">Most Scripts are moved to <a href="https://github.com/MH-Scripts">MH-Scripts</a></h3>   
 </p>
