@@ -1,11 +1,8 @@
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi👋+I'm+MaDHouSe;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+    <p><img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=F54927&style=for-the-badge&logo=star" alt="MaDHouSe79" style="padding-right:20px;" /></p>
 </div>
-
-<p>
-    <img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=79d3c3&style=for-the-badge&logo=star" alt="MaDHouSe79" style="padding-right:20px;" />
-</p>
 
 <h2 class="section-heading"> 💻 Github Stats</h2>
 <div align="center">
@@ -24,13 +21,14 @@
             <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>
         </tr>
     </table>
+    <table align="center" width="100%" height="100%" >
+        <tr>
+           <td><a href="https://vaunt.dev"><img style="border: none;" src="https://api.vaunt.dev/v1/github/entities/MaDHouSe79/contributions?format=svg&private=true" width="350" title="Includes public contributions"/></a></td>   
+           <td><a href="https://github.com/MaDHouSe79"><img style="border: none;" align="center" src="https://github-contributor-stats.vercel.app/api?username=MaDHouSe79&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" /></a></td>
+        </tr>
+    </table>
+    
 </div>
-
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/MaDHouSe79/contributions?format=svg&private=true" width="350" title="Includes public contributions"/>
-    </a>
-</p>
 
 
 <div align="center">
@@ -49,12 +47,6 @@
     <img width="500px"  src="https://skillicons.dev/icons?i=py,javascript,php,html,css,js,jquery,lua,c,cs,cpp,vscode,linux,ubuntu,kali,windows,github,d3,mysql,unity,unreal&perline=7"  />
 </p>
 
-<h2>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</h2>
-<p align="center">
-    <a href="https://github.com/MaDHouSe79">
-        <img align="center" src="https://github-contributor-stats.vercel.app/api?username=MaDHouSe79&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-    </a>
-</p>
 
 <h2>🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
