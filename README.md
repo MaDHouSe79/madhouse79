@@ -26,10 +26,11 @@
            <td><img style="border: none;" align="center" src="https://github-contributor-stats.vercel.app/api?username=MaDHouSe79&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" /></td>
         </tr>
     </table>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaDHouSe79&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <table align="center" width="100%" height="100%" >
+        <tr>
+           <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=MaDHouSe79&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15"></td>
+        </tr>
+    </table>
 </p>
 
 <h2 class="section-heading">🚀 Github Commits</h2>
