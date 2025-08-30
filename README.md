@@ -22,10 +22,16 @@
     </table>
 </div>
 
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/MaDHouSe79/contributions?format=svg&private=true" width="350" title="Includes public contributions"/>
+    </a>
+</p>
+
+
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaDHouSe79&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
-<br />
 
 
 <h2>🚀 Github Commits</h2>
@@ -56,7 +62,7 @@
 <br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=79d3c3&style=for-the-badge&logo=star" alt="MaDHouSe79" style="padding-right:20px;" />
+    <img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=79d3c3&style=for-the-badge&logo=star" alt="MaDHouSe79" style="padding-right:20px;" />
 </p>
 
 <!--Ending--> 
