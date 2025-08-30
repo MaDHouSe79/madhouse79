@@ -4,8 +4,8 @@
 </div>
 
 <h2 class="section-heading"> 💻 Github Stats</h2>
-<img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&margin-h=15&column=8&no-bg=true" />
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&margin-h=15&column=8&no-bg=true" />
+<p align="center">
     <table align="center" width="100%" height="100%" >
         <tr>
            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>   
@@ -22,37 +22,37 @@
     </table>
     <table align="center" width="100%" height="100%" >
         <tr>
-           <td><a href="https://vaunt.dev"><img style="border: none;" src="https://api.vaunt.dev/v1/github/entities/MaDHouSe79/contributions?format=svg&private=true" width="350" title="Includes public contributions"/></a></td>   
-           <td><a href="https://github.com/MaDHouSe79"><img style="border: none;" align="center" src="https://github-contributor-stats.vercel.app/api?username=MaDHouSe79&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" /></a></td>
+           <td><img style="border: none;" src="https://api.vaunt.dev/v1/github/entities/MaDHouSe79/contributions?format=svg&private=true" width="350" title="Includes public contributions"/></td>   
+           <td><img style="border: none;" align="center" src="https://github-contributor-stats.vercel.app/api?username=MaDHouSe79&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" /></td>
         </tr>
     </table>
     
-</div>
+</p>
 
 
-<div align="center">
+<p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaDHouSe79&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
+</p>
 
 
 <h2 class="section-heading">🚀 Github Commits</h2>
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
-</div>
+</p>
 
-<h2 class="section-heading">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 class="section-heading">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
     <img width="500px" src="https://skillicons.dev/icons?i=py,javascript,php,html,css,js,jquery,lua,c,cs,cpp,vscode,linux,ubuntu,kali,windows,github,d3,mysql,unity,unreal&perline=7"  />
 </p>
 
 
-<h2 class="section-heading">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
+<h2 class="section-heading">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
+<p align="center">
     <a href="mailto:sansh2356@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=madhouse1979@gmail.com mail style="margin-bottom: 5px;" />
     </a>
-</div>
+</p>
 
 <!--Ending--> 
 <p align="center">
