@@ -25,6 +25,12 @@
 
 <br />
 
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img src="https://api.vaunt.dev/v1/github/entities/MaDHouSe79/achievements?format=svg&limit=6" width="400" />
+  </a>
+</p>
+
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaDHouSe79&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
@@ -55,7 +61,40 @@
 </div>
 <br />
 
-![](https://komarev.com/ghpvc/?username=MaDHouSe79&abbreviated=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=79d3c3&style=for-the-badge&logo=star" alt="MaDHouSe79" style="padding-right:20px;" />
+</p>
+
+
+
+
+
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/MaDHouSe79/storyblok-mcp-server">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=MaDHouSe79&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/MaDHouSe79">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=MaDHouSe79&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 <!--Ending--> 
 <p align="center">
