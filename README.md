@@ -1,6 +1,5 @@
 <p align="center">
     <h1 align="center">Hi 👋, I'm MaDHouSe<br />A passionate allround developer</h1>
-    <h3 align="center">Most Scripts Are Moved To <a href="https://github.com/MH-Scripts">MH-Scripts</a></h3>   
 </p>
 
 <p align="center">
