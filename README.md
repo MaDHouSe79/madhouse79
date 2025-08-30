@@ -3,6 +3,10 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
+<p>
+    <img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=79d3c3&style=for-the-badge&logo=star" alt="MaDHouSe79" style="padding-right:20px;" />
+</p>
+
 <h2 class="section-heading"> 💻 Github Stats</h2>
 <div align="center">
     <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&margin-h=15&column=8&no-bg=true" />
@@ -52,18 +56,12 @@
     </a>
 </p>
 
-
 <h2>🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
     <a href="mailto:sansh2356@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=madhouse1979@gmail.com mail style="margin-bottom: 5px;" />
     </a>
 </div>
-<br />
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=79d3c3&style=for-the-badge&logo=star" alt="MaDHouSe79" style="padding-right:20px;" />
-</p>
 
 <!--Ending--> 
 <p align="center">
