@@ -40,12 +40,12 @@
 
 <h2 class="section-heading">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-    <img width="500px" src="https://skillicons.dev/icons?i=py,javascript,php,html,css,js,jquery,lua,c,cs,cpp,vscode,linux,ubuntu,kali,windows,github,d3,mysql,unity,unreal&perline=7"  />
+    <img width="500px" src="https://skillicons.dev/icons?i=py,javascript,php,html,css,js,jquery,lua,c,cs,cpp,vscode,linux,ubuntu,kali,windows,github,d3,mysql,unity,unreal&perline=7" />
 </p>
 
 <h2 class="section-heading">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
 <p align="center">
-    <a href="mailto:sansh2356@gmail.com" target="_blank">
+    <a href="mailto:madhouse1979@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=madhouse1979@gmail.com mail style="margin-bottom: 5px;" />
     </a>
 </p>
