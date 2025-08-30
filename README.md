@@ -1,12 +1,11 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi👋+I'm+MaDHouSe;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+    <p><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi👋+I'm+MaDHouSe;This+is..;..my+Github..;" alt="Typing SVG"/></p>
     <p><img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=F54927&style=for-the-badge&logo=star" alt="MaDHouSe79" style="padding-right:20px;" /></p>
 </div>
 
 <h2 class="section-heading"> 💻 Github Stats</h2>
+<img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&margin-h=15&column=8&no-bg=true" />
 <div align="center">
-    <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&margin-h=15&column=8&no-bg=true" />
     <table align="center" width="100%" height="100%" >
         <tr>
            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>   
@@ -36,19 +35,19 @@
 </div>
 
 
-<h2>🚀 Github Commits</h2>
+<h2 class="section-heading">🚀 Github Commits</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
-<h2>Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 class="section-heading">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-    <img width="500px"  src="https://skillicons.dev/icons?i=py,javascript,php,html,css,js,jquery,lua,c,cs,cpp,vscode,linux,ubuntu,kali,windows,github,d3,mysql,unity,unreal&perline=7"  />
+    <img width="500px" src="https://skillicons.dev/icons?i=py,javascript,php,html,css,js,jquery,lua,c,cs,cpp,vscode,linux,ubuntu,kali,windows,github,d3,mysql,unity,unreal&perline=7"  />
 </p>
 
 
-<h2>🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 class="section-heading">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
     <a href="mailto:sansh2356@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=madhouse1979@gmail.com mail style="margin-bottom: 5px;" />
