@@ -66,9 +66,14 @@
 </p>
 
 
+<p align="center">
+  <img src="https://api.vaunt.dev/v1/github/entities/MaDHouSe79/achievements?format=svg&limit=3" width="350" />
+</p>
 
 
-
+<p align="center">
+  <img src="https://api.vaunt.dev/v1/github/entities/MaDHouSe79/repositories/example/contributors?format=svg&limit=12" width="600" />
+</p>
 
 <table width="100%">
   <tr>
