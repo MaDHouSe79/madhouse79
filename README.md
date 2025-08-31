@@ -46,9 +46,7 @@
 
 <h2 class="section-heading">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
 <p align="center">
-    <a href="mailto:madhouse1979@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=madhouse1979@gmail.com mail style="margin-bottom: 5px;" />
-    </a>
+    <a href="mailto:madhouse1979@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=madhouse1979@gmail.com mail style="margin-bottom: 5px;" /></a>
 </p>
 
 <!--Ending--> 
