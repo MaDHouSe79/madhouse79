@@ -41,7 +41,7 @@
 
 <h2 class="section-heading">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-    <img width="500px" src="https://skillicons.dev/icons?i=py,javascript,php,html,css,js,jquery,lua,c,cs,cpp,vscode,linux,ubuntu,kali,windows,github,d3,mysql,unity,unreal&perline=7" />
+    <img width="500px" src="https://skillicons.dev/icons?i=py,php,html,css,js,jquery,lua,c,cs,cpp,vscode,linux,ubuntu,kali,windows,github,d3,mysql,unity,unreal&perline=7" />
 </p>
 
 <h2 class="section-heading">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
