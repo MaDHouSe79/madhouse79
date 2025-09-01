@@ -1,6 +1,6 @@
 <div align="center">
     <p><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=5000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi👋+I'm+MaDHouSe;..This+is..;..my+Github..;" alt="Typing SVG"/></p>
-    <p><img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=3464eb&style=for-the-badge&logo=star&abbreviated=true" alt="MaDHouSe79" style="padding-right:20px;" /></p>
+    <p><img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=3464eb&style=for-the-badge&logo=star" alt="MaDHouSe79" style="padding-right:20px;" /></p>
 </div>
 
 <h2 class="section-heading">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
