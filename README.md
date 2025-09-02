@@ -13,35 +13,35 @@
 <p align="center">
     <table align="center" width="100%" height="100%" >
         <tr>
-           <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>   
-           <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=MaDHouSe79&theme=merko" alt="MaDHouSe79's Contribution Streak"/></td>
+           <td style="border: none;"><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>   
+           <td style="border: none;"><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=MaDHouSe79&theme=merko" alt="MaDHouSe79's Contribution Streak"/></td>
         </tr>
     </table>
     <table align="center" width="100%" height="100%" >
         <tr>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaDHouSe79&theme=github_dark&utcOffset=10" alt="MaDHouSe79's GitHub Stats"/>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>
+            <td style="border: none;"><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>
+            <td style="border: none;"><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaDHouSe79&theme=github_dark&utcOffset=10" alt="MaDHouSe79's GitHub Stats"/>
+            <td style="border: none;"><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>
+            <td style="border: none;"><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>
         </tr>
     </table>
     <table align="center" width="100%" height="100%" >
         <tr>
-           <td><img style="border: none;" src="https://api.vaunt.dev/v1/github/entities/MaDHouSe79/contributions?format=svg&private=true" width="350" title="Includes public contributions"/></td>   
-           <td><img style="border: none;" align="center" src="https://github-contributor-stats.vercel.app/api?username=MaDHouSe79&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" /></td>
+           <td style="border: none;"><img style="border: none;" src="https://api.vaunt.dev/v1/github/entities/MaDHouSe79/contributions?format=svg&private=true" width="350" title="Includes public contributions"/></td>   
+           <td style="border: none;"><img style="border: none;" align="center" src="https://github-contributor-stats.vercel.app/api?username=MaDHouSe79&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" /></td>
         </tr>
     </table>
     <table align="center" width="100%" height="100%" >
         <tr>
-           <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=MaDHouSe79&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15"></td>
+           <td style="border: none;"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MaDHouSe79&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15"></td>
         </tr>
     </table>
 </p>
 
 <h2 class="section-heading">🚀 Github Commits</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+    <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+    <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </p>
 
 <h2 class="section-heading">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
@@ -51,5 +51,5 @@
 
 <!--Ending--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
