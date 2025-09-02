@@ -14,7 +14,7 @@
     <table align="center" width="100%" height="100%" >
         <tr>
            <td style="border: none;"><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's GitHub Stats"/></td>   
-           <td style="border: none;"><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=MaDHouSe79&theme=merko" alt="MaDHouSe79's Contribution Streak"/></td>
+           <td style="border: none;"><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=MaDHouSe79&theme=github_dark" alt="MaDHouSe79's Contribution Streak"/></td>
         </tr>
     </table>
     <table align="center" width="100%" height="100%" >
