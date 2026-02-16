@@ -44,11 +44,6 @@
     <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </p>
 
-<h2 class="section-heading">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
-<p align="center">
-    <a href="mailto:madhouse1979@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=madhouse1979@gmail.com mail style="margin-bottom: 5px;" /></a>
-</p>
-
 <!--Ending--> 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
